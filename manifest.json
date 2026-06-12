@@ -1,7 +1,7 @@
 {
     "version": "1.0.1",
-    "downloadUrl": "https://github.com/0x109l/SIFTExternal/releases/download/Tester/SiftExternal.zip",
-    "sha256": "e74dc880ded1cdea875a1bdd175c51152d72ab2a6068320e6bdab6a810fd5bdb",
+    "downloadUrl": "https://github.com/0x109l/SIFTExternal/releases/download/Tester/update.zip",
+    "sha256": "a80172c3174302091dc2f867e1b31952e010bd12e05c36ef047e7a2fe634a7fb",
     "mandatory": false,
     "releaseNotes": "Hi Test update"
 }
