@@ -1,7 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "downloadUrl": "https://github.com/0x109l/SIFTExternal/releases/download/Tester/SiftExternal.zip",
-    "sha256": "ab5e3eb23c0ee18c1894c8da5e6ef12bdef4a88b0faaecc1768ff52327452b2d",
+    "sha256": "9382fc40dff91f46c27a102ee55b301650d3a03d0d7cb345a3c3f1809391d72f",
     "mandatory": false,
-    "releaseNotes": "Friday Update"
+    "releaseNotes": "Friday Update: New Keybind UI"
 }
