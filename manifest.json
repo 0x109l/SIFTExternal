@@ -1,7 +1,7 @@
 {
     "version": "1.0.1",
-    "downloadUrl": "https://filebin.net/pseycootcqk3h6j2/SiftExternal.zip",
-    "sha256": "5886b9c79a7dfa7803a774f81b22cff86b887033ad77e7eacc4bf8a931de8ad7",
+    "downloadUrl": "https://github.com/0x109l/SIFTExternal/releases/download/Tester/SiftExternal.zip",
+    "sha256": "474da24c7d71aef4301b14ceae2aec9f33a5398fae7c1acc7b078a17eef3b0ae",
     "mandatory": false,
     "releaseNotes": "Friday Update"
 }
