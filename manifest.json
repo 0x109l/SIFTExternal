@@ -1,7 +1,7 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "downloadUrl": "https://github.com/0x109l/SIFTExternal/releases/download/Tester/SiftExternal.zip",
-    "sha256": "6ef2fcb547831882f91927ffa98caee0630285bf6f672f770fceacecd8570510",
-    "mandatory": false,
-    "releaseNotes": "Saturday Update: Major fixes, New UI, new features coming soon"
+    "sha256": "642dc0719e117609e016fdb99e25fa425adf3d29b20d21ef113364eb86d0a584",
+    "mandatory": true,
+    "releaseNotes": "Thursday Update: Updated to latest version"
 }
